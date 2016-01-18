@@ -8,7 +8,7 @@ Technologies used:
 Java,
 GitHub,
 Google Drive/Docs,
-Justinmind,
+Justinmind
 
 Group members:
 Joel Smith,
@@ -16,4 +16,4 @@ Bryan Yostos,
 Brian Warren,
 Kyle Jones,
 Joshua Stigleman,
-Steve Yasoni,
+Steve Yasoni
