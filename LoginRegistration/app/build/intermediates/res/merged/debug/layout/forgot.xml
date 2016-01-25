@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextForgot"
+        android:layout_gravity="center_horizontal"
+        android:hint="Enter Username Here" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send E-Mail"
+        android:id="@+id/buttonSendForgot"
+        android:onClick="forgot"
+        android:layout_gravity="center_horizontal"
+        android:longClickable="false"
+        android:nestedScrollingEnabled="false" />
+</LinearLayout><!-- From: file:/C:/Users/Admin/Downloads/AnnoymousAppRegistration%202/app/src/main/res/layout/forgot.xml -->
