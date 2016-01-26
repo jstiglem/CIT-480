@@ -8,7 +8,7 @@ Technologies used:
 Java,
 Android Studio SDK,
 SQLite,
-GitHub,
+GitLab,
 Google Drive/Docs,
 Justinmind
 
