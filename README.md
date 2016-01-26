@@ -6,6 +6,8 @@ anonymously, and create polls for students to answer, and receive feedback.
 
 Technologies used:
 Java,
+Android Studio SDK,
+SQLite,
 GitHub,
 Google Drive/Docs,
 Justinmind
